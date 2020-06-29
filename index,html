@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Card Bussines</title>
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+
+    <header>
+        <h1 id="heading">Card Bussines</h1>
+    </header>
+
+    <body>
+        <main>
+            <div class="card">
+                <h2 id="heading2">Card Bussines</h2>
+                <h2 id="pcard">Congratulation</h2>
+                <div class="col">
+                    <div class="card-content">
+                        <div class="image">
+                            <img src="lintang.JPG" alt="fotocard" Style="width:150px; height: 150px; border-radius: 50%; border-color: white; border-style: solid; margin-top: 20px">
+                            <p class="cardname">Gilang</p>
+                            <p class="job">Newbie</p>                    
+                        </div>
+                        <div class="containner">
+                            <p class="cardcontainer">lintang.gilang01@gmail.com</p>
+                            <p class="cardcontainer">081376673916</p>
+                            <p class="cardcontainer">Jl. Jatinegara Kaum 1 Gang Harun no 8.D Jakarta Timur</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+
+    <footer>
+        <p>Copyright &copy; 2020 by Lintang Gilang Pratama</p>
+    </footer>
+</html>
